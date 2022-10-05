@@ -1,0 +1,14 @@
+package com.LearningSecurity;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+
+@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
+public class ArturApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ArturApplication.class, args);
+	}
+
+}
