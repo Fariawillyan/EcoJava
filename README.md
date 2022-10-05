@@ -61,6 +61,20 @@ Para mais informações do evento e acompanhamento do seu progresso, você dever
 
 <a href="https://github.com/Fariawillyan/EcoJava">
 </td>
+  
+<td align="center">
+<a href="https://github.com/ArturFilipini">
+<img src ="https://avatars.githubusercontent.com/u/104103182?v=4" width="100px;" alt style="max-width: 100%;">
+
+<br>
+<sub>
+<b>Arthur Filipini</b>
+</sub>
+</a>
+<br>
+
+<a href="https://github.com/Fariawillyan/EcoJava">
+</td>
 
 
 
